@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798208109697",
+    "project_id": "raselne-b467d",
+    "storage_bucket": "raselne-b467d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798208109697:android:3b93cb5f3ca08bf01f3180",
+        "android_client_info": {
+          "package_name": "com.ahmedallam.raselne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798208109697-0e5bo5f1c1p3q5pjmofdfdlgsan5qatm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhB9lx6kx8Khl23hJ04LnvgtigeVr2zYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798208109697-0e5bo5f1c1p3q5pjmofdfdlgsan5qatm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
